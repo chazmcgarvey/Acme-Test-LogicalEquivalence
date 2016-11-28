@@ -1,0 +1,12 @@
+*.bs
+*.o
+*.tar*
+*~
+/.build
+/.perl-version
+/Acme-Test-LogicalEquivalence-*
+/MYMETA.*
+/Makefile
+/blib
+/local*
+/pm_to_blib
